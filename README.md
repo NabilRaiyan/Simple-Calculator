@@ -19,7 +19,7 @@ Welcome to the Calculator App repository! This Python application provides a bas
 - Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/calculator-app.git
-
+```
 2. Navigate to the project directory
 3. Run the app
 4. Start performing calculations with the simple and user-friendly calculator.
