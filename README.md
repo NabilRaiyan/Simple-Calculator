@@ -3,6 +3,6 @@ Welcome to the Calculator App repository! This Python application provides a bas
 
 
 ## Features
--Arithmetic Operations: Addition, subtraction, multiplication, and division.
--Clear Functionality: Clear the input field to start a new calculation.
--User-Friendly Interface: Intuitive and easy-to-use graphical user interface (GUI).
+- Arithmetic Operations: Addition, subtraction, multiplication, and division.
+- Clear Functionality: Clear the input field to start a new calculation.
+- User-Friendly Interface: Intuitive and easy-to-use graphical user interface (GUI).
