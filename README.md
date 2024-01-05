@@ -6,3 +6,7 @@ Welcome to the Calculator App repository! This Python application provides a bas
 - Arithmetic Operations: Addition, subtraction, multiplication, and division.
 - Clear Functionality: Clear the input field to start a new calculation.
 - User-Friendly Interface: Intuitive and easy-to-use graphical user interface (GUI).
+
+## Technologies Used
+- Python: The core programming language used for app development.
+- Tkinter: A standard GUI toolkit for Python that is used to create the graphical user interface.
