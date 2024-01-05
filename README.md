@@ -7,6 +7,13 @@ Welcome to the Calculator App repository! This Python application provides a bas
 - Clear Functionality: Clear the input field to start a new calculation.
 - User-Friendly Interface: Intuitive and easy-to-use graphical user interface (GUI).
 
-## Technologies Used
+## Tools and Language Used
 - Python: The core programming language used for app development.
 - Tkinter: A standard GUI toolkit for Python that is used to create the graphical user interface.
+- Pycharm: A standard IDE for Python.
+
+
+## Getting Started
+1. To run the calculator app on your local machine, follow these steps:
+
+- Clone the repository to your local machine:
