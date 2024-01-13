@@ -12,7 +12,6 @@ Welcome to the Calculator App repository! This Python application provides a bas
 - Tkinter: A standard GUI toolkit for Python that is used to create the graphical user interface.
 - Pycharm: A standard IDE for Python.
 
-
 ## Getting Started
 1. To run the calculator app on your local machine, follow these steps:
 
